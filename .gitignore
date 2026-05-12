@@ -1,0 +1,5 @@
+/data/creditcard.csv
+/.venv
+__pycache__
+.DS_Store
+/EDA/fraud_vs_legit.html
